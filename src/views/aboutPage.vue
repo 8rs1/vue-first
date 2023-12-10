@@ -1,7 +1,7 @@
 <script setup>
 import landscapeImage from "@/components/landscape-image.vue";
 import mainFooter from "@/components/main-footer.vue";
-import contactBox from '@/components/contact-box.vue';
+import contactBox from "@/components/contact-box.vue";
 </script>
 <template>
   <landscapeImage />
